@@ -11,5 +11,5 @@ Just a list of things,
 * Cloud Computing
 * Semantic Technologies
 * Speaker Recognition
-* Advanced Machine Learning
+* Advanced Machine Learning (AML)
 
