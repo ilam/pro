@@ -9,4 +9,7 @@ Just a list of things,
 * Natural Language Processing
 * Algorithms
 * Cloud Computing
+* Semantic Technologies
+* Speaker Recognition
+* Advanced Machine Learning
 
